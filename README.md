@@ -71,9 +71,10 @@ Here are the technologies used in this project.
 
 ![Post show](https://github.com/webertmaciel/PHPcep/blob/main/cepphp/readme/print4.png)
 
-### 8 - Segue link de um video mais intuitivo mostrando na pratica !
+### 8 - Segue link e um GIF de um video mais intuitivo mostrando na pratica !
+![caption](https://github.com/webertmaciel/PHPcep/blob/main/cepphp/readme/video1.gif)
 
-![Post show](https://youtu.be/8XfY3asxigc)
+https://youtu.be/8XfY3asxigc
 
 
 
